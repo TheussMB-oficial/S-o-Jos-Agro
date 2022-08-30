@@ -1,18 +1,33 @@
 body {
-	background: #66ffff;
+	background: #b3ffc6;
 }
 
 h1 {
  text-align: center;
- color: #00cc99;
+ background: #00b377;
+ color: #66ffcc;
+}
+
+#banner {
+	width: 100%;
 }
 
 h2 {
-	color: #00cc99;
+	color: #000000;
 }
 
-p
+p {
+	
+}
+
+#objetivo {
+	font-size: 20px;
+}
 
 h3 {
 	color: #00cc99;
+}
+
+.itens {
+	font font-style: italic;
 }
