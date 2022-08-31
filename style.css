@@ -8,7 +8,7 @@ h1 {
  color: #66ffcc;
 }
 
-#banner {
+#Logo {
 	width: 100%;
 }
 
@@ -22,6 +22,10 @@ p {
 
 #objetivo {
 	font-size: 20px;
+}
+
+.informações {
+	background: #FFFFFF;
 }
 
 h3 {
