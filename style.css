@@ -1,37 +1,44 @@
 body {
-	background: #b3ffc6;
+	background: #00FF00;
 }
 
-h1 {
- text-align: center;
- background: #00b377;
- color: #66ffcc;
+.centered-text {
+	text-align: center;
+	color: #606060;
 }
 
-#Logo {
+.main-title {
+	padding-left: 20px;
+	color: #606060;
+}
+
+#banner-title {
 	width: 100%;
 }
 
-h2 {
-	color: #000000;
+.main {
+	background: #66FF66;
+	padding: 20px;
 }
 
-p {
-	
-}
-
-#objetivo {
+#objective {
 	font-size: 20px;
 }
 
-.informações {
-	background: #FFFFFF;
+.images {
+	width: 50%;
+	padding: 20px;
 }
 
-h3 {
-	color: #00cc99;
+.information {
+	background: #66FF66;
+	padding: 20px;
 }
 
-.itens {
+ul {
+	display: inline-block;
+}
+
+.items {
 	font font-style: italic;
 }
