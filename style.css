@@ -1,0 +1,60 @@
+body {
+	background: #00FF00;
+}
+
+.centered-text {
+	text-align: center;
+	color: #606060;
+}
+
+.main-title {
+	padding-left: 20px;
+	color: #606060;
+}
+
+#banner-title {
+	width: 100%;
+}
+
+.main {
+	background: #66FF66;
+	padding: 20px;
+}
+
+#objective {
+	font-size: 20px;
+}
+
+.images {
+	width: 45%;
+	padding: 20px;
+}
+
+.images-l {
+	style:float:light;
+	width: 45%;
+	padding: 20px;
+}
+
+.images-r {
+	style:float:right;
+	width: 45%;
+	padding: 20px;
+}
+
+h3 {
+	text-align: center;
+}
+
+.contacts {
+	background: #66FF66;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+}
+
+.items {
+	font font-style: italic;
+}
