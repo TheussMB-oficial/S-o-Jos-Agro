@@ -27,19 +27,25 @@ body {
 
 .images {
 	width: 45%;
-	padding: 20px;
 }
 
 .images-l {
-	style:float:light;
-	width: 45%;
-	padding: 20px;
+	style:float:left;
+	width: 49%;
 }
 
 .images-r {
 	style:float:right;
-	width: 45%;
-	padding: 20px;
+	width: 49%;
+}
+
+.video-l {
+	style:float:left;
+}
+
+.video-r {
+	style:float:right;
+	width: 49%;
 }
 
 h3 {
